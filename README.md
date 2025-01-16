@@ -1,8 +1,10 @@
+```
  ____               _              _ 
 |  _ \ __ _ ___ ___| |_ ___   ___ | |
 | |_) / _` / __/ __| __/ _ \ / _ \| |
 |  __/ (_| \__ \__ \ || (_) | (_) | |
 |_|   \__,_|___/___/\__\___/ \___/|_|
+```
 
 ## **Description**
 **passtool** is a command-line tool for generating secure passwords with customizable options.
